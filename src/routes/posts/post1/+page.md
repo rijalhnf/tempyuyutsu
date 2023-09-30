@@ -7,7 +7,7 @@ categories:
   - blog
 date: "20 Sept 2023"
 edit: https://github.com/rijalhnf/tempyuyutsu/blob/main/src/routes/posts/post1/%2Bpage.md
-image: src/routes/posts/post1/image.png
+image: /image.png
 ---
 Sejak awal proklamasi Indonesia, memajukan kesejahteraan umum telah menjadi tujuan bernegara sebagaimana tercantum dalam Pembukaan UUD 1945. Sebagai bangsa yang besar, pencapaian tujuan bernegara ini tentunya memerlukan biaya tidak sedikit yang mayoritas didapat dari pajak. Alasan tersebut menunjukkan vitalnya peran perpajakan sebagai tulang punggung pembangunan Indonesia (Antika et al, 2020). Pentingnya peran pajak tersebut mendorong pemerintah untuk berusaha mengumpulkan pajak dari berbagai aspek kehidupan.
 
