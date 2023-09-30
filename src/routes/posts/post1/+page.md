@@ -7,13 +7,13 @@ categories:
   - blog
 date: "20 Sept 2023"
 edit: https://github.com/rijalhnf/tempyuyutsu/blob/main/src/routes/posts/post1/%2Bpage.md
-image: static/post1.png
+image: post1/post1.png
 ---
 Sejak awal proklamasi Indonesia, memajukan kesejahteraan umum telah menjadi tujuan bernegara sebagaimana tercantum dalam Pembukaan UUD 1945. Sebagai bangsa yang besar, pencapaian tujuan bernegara ini tentunya memerlukan biaya tidak sedikit yang mayoritas didapat dari pajak. Alasan tersebut menunjukkan vitalnya peran perpajakan sebagai tulang punggung pembangunan Indonesia (Antika et al, 2020). Pentingnya peran pajak tersebut mendorong pemerintah untuk berusaha mengumpulkan pajak dari berbagai aspek kehidupan.
 
 Namun meskipun terkesan mengikat di segala aspek kehidupan, pada realitanya, Indonesia merupakan salah satu negara terendah dalam hal Tax Ratio. Persentase pajak terhadap PDB Indonesia adalah 10,1% pada tahun 2020, di bawah rata-rata Asia-Pasifik sebesar 19,1% dengan 9,0 poin persentase. Rasio tersebut juga berada di bawah rata-rata OECD (33,5%) sebesar 23,4 poin persentase.
 
-<img src="static/post1.png" alt="rasio pajak">
+<img src="post1/post1.png" alt="rasio pajak">
 
 
 Sejalan dengan Tax Ratio yang rendah, kemampuan belanja pemerintah (Government Expenditure) Indonesia juga sangat terbatas (Tanzi & Zee, 2001). Terbatasnya kemampuan belanja menjadikan Pemerintah Indonesia tidak bisa leluasa mengendalikan ekonomi negaranya. Padahal, pemerintah merupakan katalisator utama dalam penstabilan ekonomi. Menurut John Maynard Keynes (1936), pemerintah harus dilibatkan pada masa-masa perlambatan ekonomi untuk mengembalikan posisi permintaan dan penawaran dalam pasar. 
