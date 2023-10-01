@@ -13,7 +13,7 @@ Sejak awal proklamasi Indonesia, memajukan kesejahteraan umum telah menjadi tuju
 
 Namun meskipun terkesan mengikat di segala aspek kehidupan, pada realitanya, Indonesia merupakan salah satu negara terendah dalam hal Tax Ratio. Persentase pajak terhadap PDB Indonesia adalah 10,1% pada tahun 2020, di bawah rata-rata Asia-Pasifik sebesar 19,1% dengan 9,0 poin persentase. Rasio tersebut juga berada di bawah rata-rata OECD (33,5%) sebesar 23,4 poin persentase.
 
-<img src="/images/image1.jpg" alt="rasio pajak">
+<img src="https://i.ytimg.com/vi/6tgVXBAoaxk/maxresdefault.jpg" alt="rasio pajak">
 
 
 Sejalan dengan Tax Ratio yang rendah, kemampuan belanja pemerintah (Government Expenditure) Indonesia juga sangat terbatas (Tanzi & Zee, 2001). Terbatasnya kemampuan belanja menjadikan Pemerintah Indonesia tidak bisa leluasa mengendalikan ekonomi negaranya. Padahal, pemerintah merupakan katalisator utama dalam penstabilan ekonomi. Menurut John Maynard Keynes (1936), pemerintah harus dilibatkan pada masa-masa perlambatan ekonomi untuk mengembalikan posisi permintaan dan penawaran dalam pasar. 
